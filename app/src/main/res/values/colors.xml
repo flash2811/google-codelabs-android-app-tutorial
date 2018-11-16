@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+
+    <!-- Primary Dark Color 1  (#00574B)-->
+    <color name="colorPrimaryDark">#003865</color>
+    <color name="colorAccent">#ff005d</color>
+
+    <!-- #ebdc55 Yellow-->
+    <color name="screenBackground">#004E64</color>
+    <color name="buttonBackground">#BBDEFB</color>
+
+    <color name="screenBackground2">#26C6DA</color>
+</resources>
